@@ -25,7 +25,7 @@ A responsive personal blog and portfolio built with semantic HTML and CSS as par
 Each student should make their own copy of this project and use a repository name in this format:
 
 ```text
-<rollno>-<firstname>-webdev-day03-blog-portfolio
+rollno-firstname-webdev-day03-blog-portfolio
 ```
 
 For example, a student with roll number `24BT001` and first name `Asha` would use:
