@@ -1,5 +1,7 @@
 # Day 3 — Personal Blog & Portfolio
 
+<img width="1896" height="871" alt="image" src="https://github.com/user-attachments/assets/329de9d0-0d72-4d6e-98e2-980ba610114a" />
+
 A responsive personal blog and portfolio built with semantic HTML and CSS as part of the **Links, Images, Lists, Semantic HTML** assignment.
 
 ## Day 3 work completed
